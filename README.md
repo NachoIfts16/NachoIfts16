@@ -7,7 +7,7 @@ Hey my name is Ignacio, I'm a System Analyst.I am a Tech Enthusiast. Looking for
 </br>
 
 <table align="center" height="400px" display=none>
-  <tbody height="40px">
+  <tbody height="400px">
     <tr valign="top">
       <td width="25%" align="center">
         <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
